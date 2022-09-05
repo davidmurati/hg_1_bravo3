@@ -9,6 +9,7 @@ Ronnieris
 Talos
 
 Tabla de integrantes:
+
 Hacks	Details
 H-1	Pull Request alfa (Fabiola)
 H-2	Pull Request bravo (David)
